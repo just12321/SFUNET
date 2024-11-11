@@ -1,4 +1,4 @@
-# DGUNET
+# SFUNET
 This repo holds the official code for work "A Selective Fusion UNet for Coarse to Fine Coronary Artery Segmentation"
 
 ## 1. Dependencies and Installation

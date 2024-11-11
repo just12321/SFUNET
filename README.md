@@ -1,16 +1,16 @@
 # DGUNET
-This repo holds the official code for work "A Double Gate UNet for Coarse to Fine Coronary Artery Segmentation"
+This repo holds the official code for work "A Selective Fusion UNet for Coarse to Fine Coronary Artery Segmentation"
 
 ## 1. Dependencies and Installation
 * Clone this repo:
 ```
-https://github.com/just12321/DGUNET.git
-cd DGUNET
+https://github.com/just12321/SFUNET.git
+cd SFUNET
 ```
 * Create a conda virtual environment and activate:
 ```
-conda create -n dgunet python=3.10 -y
-conda activate dgunet
+conda create -n sfunet python=3.10 -y
+conda activate sfunet
 ```
 * Install packages:
 ```
